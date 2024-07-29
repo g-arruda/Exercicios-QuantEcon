@@ -1,0 +1,14 @@
+{
+    "folders": [
+        {
+            "path": "."
+        }
+    ],
+    "settings": {
+        "cSpell.language": "en,pt-BR",
+        "cSpell.words": [
+            "fibonacci"
+        ],
+        "editor.rulers": [80],
+    }
+}
